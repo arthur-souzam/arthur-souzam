@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  🚀 Analista de Suporte curioso e desenvolvedor em formação, transformando café em código e problemas em soluções. <br>
-  🎓 Cursando Análise e Desenvolvimento de Sistemas e sempre buscando a próxima tecnologia para aprender.
+  🚀 Analista de Suporte curioso e desenvolvedor em formação, especializado em Java, Delphi e SQL. <br>
+  🎓 Cursando Análise e Desenvolvimento de Sistemas e sempre focado em criar soluções eficientes e robustas.
 </p>
 
 <hr>
@@ -21,12 +21,13 @@
 
 <div style="display: inline_block" align="center"><br>
   <h2 align="center">Meu Arsenal de Tecnologias</h2>
-  <img align="center" alt="Arthur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Arthur-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Arthur-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Arthur-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Arthur-PowerBI" height="30" width="40" src="https://e7.pngegg.com/pngimages/690/282/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
+  <img align="center" alt="Arthur-Java" height="40" width="50" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Arthur-Delphi" height="40" width="50" title="Delphi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg">
+  <img align="center" alt="Arthur-SQL" height="40" width="50" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <br><br>
+  <img align="center" alt="Arthur-HTML" height="30" width="40" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-CSS" height="30" width="40" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Arthur-Js" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
 <div align="center">
