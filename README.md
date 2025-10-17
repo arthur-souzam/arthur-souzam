@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=E+a%C3%AD%2C+tudo+certo%3F;Eu+sou+o+Arthur+Souza+Mendes;Desenvolvedor+%26+Analista+de+Suporte" alt="Animação de digitação"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Bem+vindo(a)+ao+meu+perfil;Me+chamo+Arthur+Souza+Mendes;Desenvolvedor+%26+Analista+de+Suporte" alt="Animação de digitação"></a>
 </h1>
 
 <p align="center">
