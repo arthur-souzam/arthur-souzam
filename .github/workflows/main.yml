@@ -1,0 +1,23 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda todo dia
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # AQUI ESTÁ A MÁGICA: novas cores para o snake e para os pontos
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=BE00FE&color_dots=#191622,#3A2A62,#6F42C1,#BE00FE,#FF00FF
+            
+      - run: git config --global user.name 'github-actions[bot]' && git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      - run: git add .
+      - run: git commit -m "Generate Contribution Snake with new colors"
+      - run: git push
