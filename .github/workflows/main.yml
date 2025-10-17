@@ -13,11 +13,12 @@ jobs:
       - uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          # AQUI ESTÁ A MÁGICA: novas cores para o snake e para os pontos
+          # AQUI ESTÁ A CORREÇÃO: Duas linhas de output
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=BE00FE&color_dots=#191622,#3A2A62,#6F42C1,#BE00FE,#FF00FF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=BE00FE
             
       - run: git config --global user.name 'github-actions[bot]' && git config --global user.email 'github-actions[bot]@users.noreply.github.com'
       - run: git add .
-      - run: git commit -m "Generate Contribution Snake with new colors"
+      - run: git commit -m "fix: Correct snake animation outputs"
       - run: git push
