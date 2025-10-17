@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Bem+vindo(a)+ao+meu+perfil;Me+chamo+Arthur+Souza+Mendes;Desenvolvedor+%26+Analista+de+Suporte" alt="Animação de digitação"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=BE00FE&center=true&vCenter=true&width=650&lines=Bem+vindo(a)+ao+meu+perfil!;Me+chamo+Arthur+Souza+Mendes;Desenvolvedor+%26+Analista+de+Suporte" alt="Animação de digitação"></a>
 </h1>
 
 <p align="center">
@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/arthur-souzam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-souzam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-souzam&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-souzam&show_icons=true&theme=transparent&bg_color=191622&title_color=BE00FE&text_color=FFF&icon_color=00FFFF&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-souzam&layout=compact&langs_count=7&theme=transparent&bg_color=191622&title_color=BE00FE&text_color=FFF&hide_border=true"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -34,10 +34,10 @@
   <h2 align="center">Minhas Contribuições e Estatísticas de Visita</h2>
   <img src="https://github.com/arthur-souzam/arthur-souzam/blob/output/github-contribution-grid-snake.svg" alt="Snake game com as contribuições do GitHub">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=arthur-souzam&label=Visualiza%C3%A7%C3%B5es+no+Perfil&color=00BFFF&style=flat-square" alt="Contador de visitas do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=arthur-souzam&label=Visualiza%C3%A7%C3%B5es+no+Perfil&color=BE00FE&style=flat-square" alt="Contador de visitas do perfil" />
 </div>
 
 <div align="center"> 
   <h2 align="center">Onde me encontrar</h2>
-  <a href="https://www.linkedin.com/in/arthur-souza-mendes-078653252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/arthur-souza-mendes-078653252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%238A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
