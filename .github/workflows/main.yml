@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todo dia
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,19 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
+      
       - uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          # AQUI ESTÁ A CORREÇÃO: Duas linhas de output
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=BE00FE&color_dots=#191622,#3A2A62,#6F42C1,#BE00FE,#FF00FF
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=BE00FE
 
-      - run: git config --global user.name 'github-actions[bot]' && git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-      
-      - run: git add .
-
-      - run: git commit -m "chore: generate snake animation"
-      
-      - run: git push
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Generate snake animation"
+          git push
