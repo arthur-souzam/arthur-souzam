@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=BE00FE&center=true&vCenter=true&width=650&lines=Bem+vindo(a)+ao+meu+perfil!;Me+chamo+Arthur+Souza+Mendes;Desenvolvedor+%26+Analista+de+Suporte" alt="Animação de digitação"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=BE00FE&center=true&vCenter=true&width=650&lines=Bem+vindo(a)+ao+meu+perfil;Me+chamo+Arthur+Souza+Mendes;Desenvolvedor+%26+Analista+de+Suporte" alt="Animação de digitação"></a>
 </h1>
 
 <p align="center">
@@ -32,7 +32,7 @@
   
 <div align="center">
   <h2 align="center">Minhas Contribuições e Estatísticas de Visita</h2>
-  <img src="https://github.com/arthur-souzam/arthur-souzam/blob/output/github-contribution-grid-snake.svg" alt="Snake game com as contribuições do GitHub">
+  <img src="https://github.com/arthur-souzam/arthur-souzam/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake game com as contribuições do GitHub">
   <br>
   <img src="https://komarev.com/ghpvc/?username=arthur-souzam&label=Visualiza%C3%A7%C3%B5es+no+Perfil&color=BE00FE&style=flat-square" alt="Contador de visitas do perfil" />
 </div>
