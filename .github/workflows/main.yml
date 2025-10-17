@@ -8,10 +8,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Adicionando permissão para a Action escrever no repositório
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      # Usando a versão mais recente e estável da action de checkout
+      - uses: actions/checkout@v4
       
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
