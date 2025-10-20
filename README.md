@@ -32,11 +32,15 @@
   
 <div align="center">
   <h2 align="center">Minhas Contribuições e Estatísticas de Visita</h2>
-  <img src="https://github.com/arthur-souzam/arthur-souzam/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake game com as contribuições do GitHub">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthur-souzam/arthur-souzam/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthur-souzam/arthur-souzam/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthur-souzam/arthur-souzam/output/github-contribution-grid-snake.svg">
+  </picture>
   <br>
   <img src="https://komarev.com/ghpvc/?username=arthur-souzam&label=Visualiza%C3%A7%C3%B5es+no+Perfil&color=BE00FE&style=flat-square" alt="Contador de visitas do perfil" />
 </div>
-
+  
 <div align="center"> 
   <h2 align="center">Onde me encontrar</h2>
   <a href="https://www.linkedin.com/in/arthur-souza-mendes-078653252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%238A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
